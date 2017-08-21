@@ -1,1 +1,1 @@
-#My first Ruby project
+My first Ruby project
